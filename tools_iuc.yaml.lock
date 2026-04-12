@@ -2182,7 +2182,6 @@ tools:
   owner: iuc
   revisions:
   - 15317b79c449
-  - 43af02990a47
   - b64c033f5b02
   - e0b7c98f29bb
   tool_panel_section_label: Evolution
@@ -3491,7 +3490,6 @@ tools:
 - name: pretext_snapshot
   owner: iuc
   revisions:
-  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 6c571966cfb9
@@ -7437,7 +7435,6 @@ tools:
   owner: iuc
   revisions:
   - 9cf5a6009328
-  - d989142ead55
   tool_panel_section_label: Multiple Alignments
 - name: hal_haladdtobranch
   owner: iuc
