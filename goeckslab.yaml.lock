@@ -82,11 +82,13 @@ tools:
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 1dfc3ad13f43
   - 2f5e307f31e8
   - '310868974972'
   tool_panel_section_label: Machine Learning
 - name: multimodal_learner
   owner: goeckslab
   revisions:
+  - 73af7d202e2a
   - b905deb2f1b4
   tool_panel_section_label: Machine Learning
