@@ -21,6 +21,7 @@ tools:
   - 468fd92deaaa
   - 5aaffb8d8161
   - ca5d51152817
+  - ce54031c2235
   - e17bbe564242
   - e909d3bc4687
   tool_panel_section_label: Annotation
@@ -2426,6 +2427,7 @@ tools:
   - 05afdd33dac7
   - 64d732725a73
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_label: Convert Formats
 - name: ucsc_axttomaf
@@ -2486,6 +2488,7 @@ tools:
   owner: iuc
   revisions:
   - 704f9a5e5c91
+  - 78598ed1b8a8
   - 82385545ce58
   - f277badb9b30
   tool_panel_section_label: DNA Metabarcoding
@@ -2493,6 +2496,7 @@ tools:
   owner: iuc
   revisions:
   - 2ede910f04e1
+  - 569eacd3be7b
   - e26301f69e43
   - f288c404742b
   tool_panel_section_label: DNA Metabarcoding
@@ -2510,12 +2514,14 @@ tools:
   owner: iuc
   revisions:
   - 1b8f9a62811b
+  - 4da9a24971bd
   - 6c19e0d33cf6
   - c96ce8ed191c
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_grep
   owner: iuc
   revisions:
+  - 7e68109625a3
   - 98bec443b342
   - be475ac055b2
   - d16990a72638
@@ -2523,6 +2529,7 @@ tools:
 - name: obi_uniq
   owner: iuc
   revisions:
+  - 3cd66db293f6
   - 9eded74a3d03
   - c89bb0ef8f25
   - cb91d030d8ba
@@ -2530,6 +2537,7 @@ tools:
 - name: obi_clean
   owner: iuc
   revisions:
+  - 1beb31209adb
   - 656858ba54ea
   - 6fa6df09d606
   - f5e899be558b
@@ -2537,6 +2545,7 @@ tools:
 - name: obi_convert
   owner: iuc
   revisions:
+  - a86cb55cba33
   - ce363293cb55
   - dce297ace751
   - deaac9e831a4
@@ -3632,6 +3641,7 @@ tools:
   revisions:
   - 00b3da7776a0
   - 2488bcddaf14
+  - 57467b5debe6
   - 61946b8bd43b
   - 96a3c972424f
   - bae6cba73e32
@@ -3903,6 +3913,7 @@ tools:
   revisions:
   - 03a801ded645
   - 0622d99c2619
+  - 07f675a7ac2e
   - 0f3b3813b6ae
   - 18eed8fa7f23
   - 198c75abbf55
@@ -4266,12 +4277,14 @@ tools:
 - name: seaborn_pairgrid
   owner: iuc
   revisions:
+  - 36f4aa9439a8
   - 4a46d83cb08f
   tool_panel_section_label: Graph/Display Data
 - name: seaborn
   owner: iuc
   revisions:
   - 293a939f28c8
+  - c7cb57d16237
   tool_panel_section_label: Graph/Display Data
 - name: tsne
   owner: iuc
@@ -4288,6 +4301,7 @@ tools:
   owner: iuc
   revisions:
   - ec6141f6e5cb
+  - fa2e7ae6cad6
   tool_panel_section_label: Graph/Display Data
 - name: volcanoplot
   owner: iuc
@@ -9141,6 +9155,7 @@ tools:
   - 0f1c34698076
   - 2a9afed42353
   - 4c172a4a4c9e
+  - 640e4eeab4e2
   - 645159bcee2d
   - 7b379e98b9a9
   - 9eab750c367d
@@ -10251,6 +10266,7 @@ tools:
   - 29ff6a849eac
   - 73a469f7dc96
   - b1e68bbe4cef
+  - dc97e1b45938
   - ea30d3089354
   tool_panel_section_label: Phylogenetics
 - name: raxmlng
@@ -10435,6 +10451,7 @@ tools:
 - name: swissmodel_modelling_api
   owner: iuc
   revisions:
+  - 42fdfcbc63ea
   - f09a77e52ae5
   tool_panel_section_label: Proteomics
 - name: syndiva
