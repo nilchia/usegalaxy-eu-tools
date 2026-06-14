@@ -942,6 +942,7 @@ tools:
   revisions:
   - 1b8f9a62811b
   - 3021b9f5809f
+  - 3ac96c352a3d
   - 4da9a24971bd
   - 6c19e0d33cf6
   - c96ce8ed191c
@@ -955,6 +956,7 @@ tools:
   - 98bec443b342
   - be475ac055b2
   - d16990a72638
+  - e5cf6d670369
   - e9e49cf06b42
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_uniq
@@ -966,6 +968,7 @@ tools:
   - c89bb0ef8f25
   - cb91d030d8ba
   - d4bea99366f9
+  - f2a8b93f731c
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_clean
   owner: iuc
@@ -975,12 +978,14 @@ tools:
   - 6fa6df09d606
   - 7d16de45c021
   - 816cbd8f4e6e
+  - 9c6619b29650
   - f5e899be558b
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_convert
   owner: iuc
   revisions:
   - 4d705e3443a7
+  - 618fa454e51a
   - a86cb55cba33
   - ce363293cb55
   - dce297ace751
@@ -1706,6 +1711,7 @@ tools:
   - 0bc5b1bfa81a
   - 0f56f5f6bc3f
   - '310676858178'
+  - 3cf052628373
   - 809f339deae2
   - 9777101cccbc
   - aff0214687fa
@@ -1734,10 +1740,12 @@ tools:
   owner: ecology
   revisions:
   - a97a73f95025
+  - cd9b7f57a163
   tool_panel_section_label: Population Genomics
 - name: effective_population_size_ld_method
   owner: ecology
   revisions:
   - 2becf5e2f302
   - 88903ed1f637
+  - ecee96169b7c
   tool_panel_section_label: Population Genomics
