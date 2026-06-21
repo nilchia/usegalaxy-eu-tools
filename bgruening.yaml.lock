@@ -463,6 +463,7 @@ tools:
   owner: bgruening
   revisions:
   - 06a8da74643e
+  - 3a9709a4df77
   - c5be7c86ca5c
   tool_panel_section_label: Imaging
 - name: bioimage_inference
@@ -495,10 +496,12 @@ tools:
   - 8cc1936ab69b
   - a90916b16d1a
   - f1e5a9dd6baa
+  - fe95917c3e20
   tool_panel_section_label: Imaging
 - name: yolo_predict
   owner: bgruening
   revisions:
+  - 3e9d14e5942f
   - 983ce2a25b48
   - af3eed1f1abe
   - d77c67cfe2ca
@@ -510,6 +513,7 @@ tools:
   owner: bgruening
   revisions:
   - 25a2de34c05e
+  - 5cc588ef3793
   - 9091435c041e
   - 92d5c5e5c734
   - ad05e90d024b
@@ -1050,6 +1054,7 @@ tools:
   - '157674736595'
   - 1aba57a5a716
   - 28e902e3d8d6
+  - 36d65981163b
   - 3e756119100d
   - 86d767b93457
   - 914a7b992c2c

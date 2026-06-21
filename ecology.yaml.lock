@@ -1622,6 +1622,7 @@ tools:
   - 6b0a7e4e1460
   - a79a266b93e8
   - af00a67d3649
+  - cc99eeaa9a49
   - d413a6b6cebf
   - f708bf8ccfa7
   tool_panel_section_label: GIS Data Handling
@@ -1715,6 +1716,7 @@ tools:
   - 809f339deae2
   - 9777101cccbc
   - aff0214687fa
+  - e938172541c4
   tool_panel_section_label: Computer Vision
 - name: population_genomics_vcf_filtering
   owner: ecology

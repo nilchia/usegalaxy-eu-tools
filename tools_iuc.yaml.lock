@@ -32,6 +32,7 @@ tools:
   - 2fa74a3f6670
   - 573cfe217474
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_label: Annotation
 - name: angsd
   owner: iuc
@@ -651,6 +652,7 @@ tools:
 - name: tiberius
   owner: iuc
   revisions:
+  - 0f10ac29126a
   - c0afea1f4684
   tool_panel_section_label: Annotation
 - name: tsebra
@@ -957,6 +959,7 @@ tools:
   revisions:
   - 3f6e5c701945
   - 5f8efb080f49
+  - a3d1bf938fa8
   - dddd7ef63469
   tool_panel_section_label: Annotation
 - name: mirmachine
@@ -964,6 +967,7 @@ tools:
   revisions:
   - 122bb8d553cb
   - 85010d0eaa6c
+  - 9c7074f01f52
   - b0d80d456120
   - c73e17fc5a77
   - ef6ed729b69a
@@ -1196,6 +1200,7 @@ tools:
   - 59d308975e63
   - 6d5c8a6ceea0
   - 9e8cf8dd6955
+  - cfe8742b704e
   - d0a2e0a9c853
   - eaa563bd535a
   - f2625d1efadd
@@ -1313,6 +1318,7 @@ tools:
   - 59d308975e63
   - 6d5c8a6ceea0
   - 9e8cf8dd6955
+  - cfe8742b704e
   - d0a2e0a9c853
   - eaa563bd535a
   - f2625d1efadd
@@ -1641,6 +1647,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 2ecf5a570907
   - 3ca2d2a9068c
   - 606b09cc9860
@@ -1866,6 +1873,7 @@ tools:
   - 59be68ba26c2
   - 5bd3f053c303
   - 5fc94b3a4704
+  - aa1ac2f7a688
   - b66de1e9abfb
   - e122f9101584
   - ef69617ecb42
@@ -1908,6 +1916,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 24fffa4fee40
   - 33368fec3b70
   - 65d1598a9256
@@ -1937,11 +1946,13 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - afac6d6bd02b
   - c33a476f4001
   tool_panel_section_label: Assembly
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
@@ -1963,6 +1974,7 @@ tools:
   - 6b5a5842531e
   - 7e27faaad80e
   - 8d4b90bf9caf
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -1980,6 +1992,7 @@ tools:
   - 86f66ab58e14
   - 9346dcffaafc
   - 9de69775f512
+  - c4ba6aa27088
   - ea83ac535a1f
   - ed32d95f436a
   - f1532cb33c75
@@ -1992,6 +2005,7 @@ tools:
   - 388dbecbf03b
   - 5be72b7648fa
   - 6aad515a5270
+  - 6fb81bb0fe3e
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
@@ -2013,6 +2027,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_label: Assembly
 - name: syri
   owner: iuc
@@ -2395,6 +2410,7 @@ tools:
   revisions:
   - 65a69de1e294
   - 66617be450bd
+  - 6c56786c9d1a
   - 6e868bf6c38e
   - 740e1702cb22
   - 8d6686664021
@@ -2415,6 +2431,7 @@ tools:
   - 30a8447539e4
   - 3d0223265277
   - 6ff67d2860e1
+  - 95a71120949f
   - a4506449c300
   - bbbcee71e70e
   - def7a82d23e1
@@ -3222,6 +3239,7 @@ tools:
 - name: falco
   owner: iuc
   revisions:
+  - 219ffa24f789
   - 46192706f470
   - 959a14c1f2dd
   - babbcf02d35c
@@ -3946,6 +3964,7 @@ tools:
   - a6a475ed58cb
   - b2ae7186d41f
   - bc18e25d4204
+  - c28c9cdf3660
   - c47a0a93ffd2
   - d19bb3e590b6
   - d78faac2c6ef
@@ -5310,6 +5329,7 @@ tools:
   - 6b1e195506a3
   - 6f50f36e4481
   - 77b2770508f6
+  - 7a6382582d76
   - 8c6cd2650d1f
   - 92678fcb1a5f
   - b3eab4b67562
@@ -5369,6 +5389,7 @@ tools:
   - 5ef7ec16b04f
   - 79b885ce78d7
   - a00cceb45700
+  - a2f232ff85ed
   - b8f5f6e87f5c
   - e403d27e8f24
   - ec9cbd6b9a49
@@ -6169,6 +6190,7 @@ tools:
   - 3a89c3f99f3d
   - 4d89978c6188
   - 5b5a7af9fbb4
+  - 60cd35f37c0a
   - 63f86089423e
   - 705d26fbea02
   - 76d3d2b10738
@@ -6190,6 +6212,7 @@ tools:
   - 89d11e95a9b1
   - 96336c6a2bb7
   - b35a5e8ff0fe
+  - b762f4d54f78
   - ce4aec98949d
   - f79565b12646
   tool_panel_section_label: Metagenomic Analysis
@@ -6199,6 +6222,7 @@ tools:
   - 00e0347751b1
   - 23fc35093b11
   - 34e55239e68b
+  - 6be249bfd55b
   - 777f9846c56d
   - 81fc1ff02788
   - a9f4a217dcd6
@@ -6215,6 +6239,7 @@ tools:
   - 04c15826a0b8
   - 0776d824d896
   - 39638e0aff59
+  - 4bba91a89457
   - 5fe3edf19b9c
   - 68129ce1c59b
   - 75403243703a
@@ -6237,6 +6262,7 @@ tools:
   - 88677f452aea
   - 99c6929236fa
   - 9ccec6ed8e82
+  - aab8af79110e
   - bfd62e881837
   - e96bbb9e24ea
   - ebd632e95aae
@@ -6254,6 +6280,7 @@ tools:
   - 69900ffd3b8e
   - 805daed21ef3
   - 84743da21318
+  - a35c40af067f
   - b1e55c248f17
   - c920e1400f98
   tool_panel_section_label: Metagenomic Analysis
@@ -6266,6 +6293,7 @@ tools:
   - 32c9ea835770
   - 498d57610fcd
   - 555ccac8a4c5
+  - 5cba3a0dc3b6
   - 6f06d501b7e6
   - 78faebd0879c
   - 806fe614ca46
@@ -6279,6 +6307,7 @@ tools:
   - 2a90d2fd3336
   - 371afe17d247
   - 4e469b758915
+  - 51971db051ba
   - 52a911972c02
   - 7b8cb2b02978
   - a204f3983d22
@@ -6293,6 +6322,7 @@ tools:
   owner: iuc
   revisions:
   - 04144473e59e
+  - 0a13d449d1bf
   - 1770d188f72d
   - 1937c2b4da7a
   - 1bc3657cd694
@@ -6311,6 +6341,7 @@ tools:
   - 0a1224c4b781
   - 19299bb1c6af
   - 213a3fda0b91
+  - 256e7a119a95
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
@@ -6325,6 +6356,7 @@ tools:
   owner: iuc
   revisions:
   - 00b8932e286e
+  - 506ce55ba922
   - 74ec28dbdf17
   - 7dfcb39313d4
   - ee763baa80c3
@@ -12185,6 +12217,7 @@ tools:
   owner: iuc
   revisions:
   - 14ac9a11465e
+  - 1c727d097441
   - 49776718ae90
   - 7e014059a88d
   - a4b734cd253b
@@ -12201,6 +12234,7 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - 8dc8ff057b0f
+  - bb9a4270e288
   - c891d8b33ede
   - d45f092caf24
   - d55e29ac02e3
@@ -12209,6 +12243,7 @@ tools:
   owner: iuc
   revisions:
   - 0fa80752a314
+  - 25a519a368a4
   - 2b0d3e2f402a
   - 37a47c4fd84d
   - 41f34e925bd5
@@ -12226,6 +12261,7 @@ tools:
   - 9606d2385547
   - c8434a623268
   - df8e4e54d367
+  - e5cd122b7555
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
   owner: iuc
@@ -12233,6 +12269,7 @@ tools:
   - 2bfd55b87af3
   - 44b935f2271b
   - 72979cac22b2
+  - 8efd06e9899d
   - c92d0f9338c5
   - da7ff78fe296
   - e93b008c637a
@@ -13725,6 +13762,7 @@ tools:
   - b43df0ce6c87
   - b8c112397c5e
   - c47ecf0e932d
+  - c8ecdd5bdb32
   - c91e09b60325
   - e43f513583ee
   - fdbd97ff825e
@@ -13734,11 +13772,13 @@ tools:
   owner: iuc
   revisions:
   - ed056d243455
+  - f05465a21e53
   tool_panel_section_label: Variant Calling
 - name: fermi2
   owner: iuc
   revisions:
   - 06d22a2d3c64
+  - 2fba3825e828
   tool_panel_section_label: Variant Calling
 - name: freebayes
   owner: devteam
