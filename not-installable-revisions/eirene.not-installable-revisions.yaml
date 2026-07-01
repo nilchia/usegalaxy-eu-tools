@@ -284,3 +284,11 @@ tools:
   owner: recetox
   revisions:
   - ad4176b336dc
+- name: aoptk_chemical_identifier
+  owner: recetox
+  revisions:
+  - ce0420edec0f
+- name: aoptk_publication_tracker
+  owner: recetox
+  revisions:
+  - 98893ab7309f
