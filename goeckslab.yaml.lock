@@ -82,6 +82,7 @@ tools:
   - 5a2a6da441ae
   - 6b5934d4c7a9
   - 7d84cdd45c15
+  - c99a4e91b900
   tool_panel_section_label: Machine Learning
 - name: tabular_learner
   owner: goeckslab
@@ -90,6 +91,7 @@ tools:
   - 2f5e307f31e8
   - '310868974972'
   - 575cb355247c
+  - 6708cb8547bc
   - efe3a2d3a31d
   tool_panel_section_label: Machine Learning
 - name: multimodal_learner
@@ -98,4 +100,5 @@ tools:
   - 73af7d202e2a
   - 9649a6aa6997
   - b905deb2f1b4
+  - baa13bb4cdcc
   tool_panel_section_label: Machine Learning
