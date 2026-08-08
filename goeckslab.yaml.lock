@@ -82,11 +82,13 @@ tools:
   - 5a2a6da441ae
   - 6b5934d4c7a9
   - 7d84cdd45c15
+  - a2e4242653ec
   - c99a4e91b900
   tool_panel_section_label: Machine Learning
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 06ef6f6ebfb1
   - 1dfc3ad13f43
   - 2f5e307f31e8
   - '310868974972'
